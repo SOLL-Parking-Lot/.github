@@ -25,19 +25,30 @@ SOLL주차장은 실시간 주차장 정보를 바탕으로 미리 주차장을 
 | <div align="center">[ComNewbie](https://github.com/ComNewbie)</div> | <div align="center">[Chan](https://github.com/ohchanKyu)</div>                  | <div align="center"> [ThisGrDn](https://github.com/ThisGrDn)</div>              | <div align="center">[Enendxkr](https://github.com/Enendxkr)</div>              |     
 
 # 사용
-### 주변 추차장 찾기
-![주변 추차장 찾기](https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fbaa8314-e134-49bf-961c-5bde4ed621ed)
-
-
-### 내 위치 변경
-![내 위치 변경](https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fd58e72a-3205-4818-8c86-3cd7a27b75fb)
-
-### 주차장 즐겨찾기
-![주차장 즐겨찾기](https://github.com/SOLL-Parking-Lot/.github/assets/88769991/810d98b2-e517-4dfe-81fa-2c2c71e2ad3f)
-
-### 새로운 주차장 등록
-![새로운 주차장 등록](https://github.com/SOLL-Parking-Lot/.github/assets/88769991/20b76ea4-6a1f-40ff-8171-cfa290661c0d)
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>주변 주차장 찾기</strong><br>
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fbaa8314-e134-49bf-961c-5bde4ed621ed" width="300px" />
+      </td>
+      <td align="center">
+        <strong>내 위치 변경</strong><br>
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fd58e72a-3205-4818-8c86-3cd7a27b75fb" width="300px" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>주차장 즐겨찾기</strong><br>
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/810d98b2-e517-4dfe-81fa-2c2c71e2ad3f" width="300px" />
+      </td>
+      <td align="center">
+        <strong>새로운 주차장 등록</strong><br>
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/20b76ea4-6a1f-40ff-8171-cfa290661c0d" width="300px" />
+      </td>
+    </tr>
+  </table>
+</div><br>
 
 
 ## **프로젝트 구조**
