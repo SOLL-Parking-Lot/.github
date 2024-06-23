@@ -1,5 +1,5 @@
 <div align="center">
-<img width="742" alt="sollLogo" src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/ad5cfb3e-a240-4eb8-ab20-9c846ac7e6fe">
+<img width="500" alt="sollLogo" src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/ad5cfb3e-a240-4eb8-ab20-9c846ac7e6fe">
 
 
 
