@@ -30,21 +30,21 @@ SOLL주차장은 실시간 주차장 정보를 바탕으로 미리 주차장을 
     <tr>
       <td align="center">
         <strong>주변 주차장 찾기</strong><br>
-        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fbaa8314-e134-49bf-961c-5bde4ed621ed" width="300px" />
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fbaa8314-e134-49bf-961c-5bde4ed621ed" width="400px" />
       </td>
       <td align="center">
         <strong>내 위치 변경</strong><br>
-        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/fd58e72a-3205-4818-8c86-3cd7a27b75fb" width="300px" />
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/664c3211-4c56-4a54-a326-3fc704c95658" width="400px" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>주차장 즐겨찾기</strong><br>
-        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/810d98b2-e517-4dfe-81fa-2c2c71e2ad3f" width="300px" />
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/810d98b2-e517-4dfe-81fa-2c2c71e2ad3f" width="400px" />
       </td>
       <td align="center">
         <strong>새로운 주차장 등록</strong><br>
-        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/20b76ea4-6a1f-40ff-8171-cfa290661c0d" width="300px" />
+        <img src="https://github.com/SOLL-Parking-Lot/.github/assets/88769991/f292a38d-0c91-44d7-a307-7f775428449e" width="400px" />
       </td>
     </tr>
   </table>
