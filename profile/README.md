@@ -22,7 +22,7 @@ SOLL주차장은 실시간 주차장 정보를 바탕으로 미리 주차장을 
 | **Backend(S)**                                                      | **Backend&Frontend(O)**                                                         | **Frontend(L)**                                                                 | **Backend(L)**                                                                 | 
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------| 
 | <img src="https://avatars.githubusercontent.com/u/88769991?v=4"/>   | <img src="https://avatars.githubusercontent.com/u/112472883?v=4" width=400px /> | <img src="https://avatars.githubusercontent.com/u/103481014?v=4" width=400px /> | <img src="https://avatars.githubusercontent.com/u/166590918?v=4" width=400px > | 
-| <div align="center">[ComNewbie](https://github.com/ComNewbie)</div> | <div align="center">[Chan](https://github.com/ohchanKyu)</div>                  | <div align="center"> [ThisGrDn](https://github.com/ThisGrDn)</div>              | <div align="center">[Enendxkr](https://github.com/Enendxkr)</div>              |     
+| <div align="center">[소경민](https://github.com/ComNewbie)</div> | <div align="center">[오규찬](https://github.com/ohchanKyu)</div>                  | <div align="center"> [이정원](https://github.com/ThisGrDn)</div>              | <div align="center">[이원진](https://github.com/Enendxkr)</div>              |     
 
 # 사용
 <div align="center">
